@@ -1,6 +1,7 @@
 package Arrays;
 import java.util.Scanner;
     //Target sum Problem
+  // This is a  BruteForce Approach not an Optimal one
 public class TargetSum {
     static  int TargetSum(int[] arr, int Target){
         int count=0;
