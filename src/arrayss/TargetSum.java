@@ -1,4 +1,4 @@
-package Arrays;
+package arrayss;
 import java.util.Scanner;
     //Target sum Problem
   // This is a  BruteForce Approach not an Optimal one
