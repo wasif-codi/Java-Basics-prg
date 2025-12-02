@@ -1,4 +1,4 @@
-package Arrays;
+package arrayss;
 
 import java.util.Scanner;
 // First Repeating number
