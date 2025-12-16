@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class MultiplicationNum {
     public static void main(String[] args) {
+        // Table of a number
 
 //        Scanner scanner = new Scanner(System.in);
 //        System.out.println("enter a number to print multiplication");
