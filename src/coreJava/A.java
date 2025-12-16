@@ -7,3 +7,4 @@ public class A {
         System.out.println("I'm parent class method Print() ");
     }
 }
+int a ;
