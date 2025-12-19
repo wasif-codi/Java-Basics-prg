@@ -11,7 +11,11 @@ public class CheckNum {
             System.out.println(n+ " is positive number ");
         } else if (n<0) {
             System.out.println(n+ " is negative number");
+<<<<<<< HEAD
         String name ="num";
+=======
+        int a =10;
+>>>>>>> 6349f2e17adacbef366025acf503f9fad8513d01
         }else {
             System.out.println(n+ " is zero number");
         }
